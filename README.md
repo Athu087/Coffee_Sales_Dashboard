@@ -9,7 +9,7 @@ This project analyzes coffee sales data to identify trends, optimize pricing, an
 The dataset consists of multiple sheets with key data:
 - **Transactions 📝**: Logs individual sales with timestamps, store locations, product details, and revenue.
   
-  ![Transactions](https://www.example.com/vector-transactions.png)
+  ![Transactions]([https://www.example.com/vector-transactions.png](https://github.com/Athu087/Coffee_Sales_Dashboard/blob/e751dd5154abd72a5d681a7a6594a28edd16fee4/9315654.jpg))
   
 - **Revenue 💰**: Captures total revenue over time.
   
