@@ -3,7 +3,7 @@
 ## Project Overview 🏢
 This project analyzes coffee sales data to identify trends, optimize pricing, and improve sales strategies. The dataset includes transaction details, revenue, profit, and product popularity to help boost business performance.
 
-![Business Analysis]([https://www.example.com/vector-business-analysis.png](https://www.freepik.com/free-vector/coffee-shop-barista-concept-illustration_51253360.htm#fromView=search&page=1&position=5&uuid=e7840519-c241-4236-a786-0d8fff575ec7&query=coffee+business+))
+![Business Analysis](https://www.example.com/vector-business-analysis.png)
 
 ## Dataset Structure 📂
 The dataset consists of multiple sheets with key data:
